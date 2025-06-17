@@ -1,0 +1,4 @@
+flask
+requests
+git
+azure-iot-device
